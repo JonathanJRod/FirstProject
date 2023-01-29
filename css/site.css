@@ -1,6 +1,6 @@
 body 
 html {
-    color: white;
+    color: #ffff;
     height: 100%;
 }
 
@@ -16,7 +16,7 @@ html {
 }
 
 .taskContainer {
-    background-color: white;
+    background-color: #ffff;
     border: solid .5em #ffc107;
     border-radius: .5em;
     box-sizing: border-box;
@@ -46,8 +46,8 @@ html {
 }
 
 .item {
-    background-color: lightgray;
-    color: #212121;
+    background-color: #ffff;
+    color: #ffff;
     margin: .25em;
     padding: .5em;
 }
